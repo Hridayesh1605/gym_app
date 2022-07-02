@@ -16,10 +16,10 @@ const Navbar = () => (
       fontSize="24px"
       alignItems="center"
     >
-      <Link to="/" style={{ textDecoration: 'none', color: 'black' }}>HOME</Link>
-      <a href="#exercises" style={{ textDecoration: 'none', color: 'black' }}>EXERCISES</a>
-      <a href="/AboutUs" style={{ textDecoration: 'none', color: 'black' }}>ABOUT US</a>
-      <a href="/ContactUs" style={{ textDecoration: 'none', color: 'black' }}>CONTACT US</a>
+      <Link to="/" style={{ textDecoration: 'none', color: 'white' }}>HOME</Link>
+      <a href="#exercises" style={{ textDecoration: 'none', color: 'white' }}>EXERCISES</a>
+      <a href="/AboutUs" style={{ textDecoration: 'none', color: 'white' }}>ABOUT US</a>
+      <a href="/ContactUs" style={{ textDecoration: 'none', color: 'white' }}>CONTACT US</a>
     </Stack>
 
   </Stack>
